@@ -1,0 +1,6 @@
+[submodule "aptnotes-data"]
+	path = aptnotes-data
+	url = https://github.com/gaopeng32/aptnotes-data.git
+[submodule "aptnotes-tools"]
+	path = aptnotes-tools
+	url = https://github.com/gaopeng32/aptnotes-tools.git
