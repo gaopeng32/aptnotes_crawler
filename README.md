@@ -18,6 +18,6 @@ cd tools/
 python APTnotes_async_download_python35.py
 ```
 
-Reports will be downloaded in `tools/`.
+Reports will be downloaded in `aptnotes-tools/`.
 
 Archive of reports downloaded: <https://drive.google.com/drive/folders/1paRBjSiS7XJlBkvDwEPJcSk2eDDxCZ0P?usp=sharing>
